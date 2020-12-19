@@ -77,7 +77,7 @@ let tl3 = gsap.timeline({
 let tl4 = gsap.timeline({
     scrollTrigger: {
         trigger: ".flex-new",
-        start: "center 100%",
+        start: "top 20%",
         end: "bottom 20%"
     }
 });
